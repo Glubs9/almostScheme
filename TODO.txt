@@ -1,0 +1,19 @@
+thousands of bugs (check stdlib)
+
+finish stdlib
+add proper error messages
+add tail call optimizations
+add real error messages that arent just python wiggin out
+add static scope #fuck that
+	and closures
+make comments better
+add call/cc (maybe tbh this is fuckin me about)
+add type checking and appropriate errors (type checking only works for default defined functions)
+some random bug with begin and debugging
+handle argument arity mismatch for macros 
+add atom to char list
+add exceptions
+handle repl stack with up and down arrow
+add support for pair datatype
+add type checking functions like num? and list? and func?
+add named-lambda (i think this is the weird thing from the original lisp paper)
